@@ -1,0 +1,19 @@
+{
+  "name": "fs-angular-search",
+  "description": "",
+  "main": [
+    "dist/search.js"
+  ],
+  "authors": [
+    "Firestitch Inc."
+  ],
+  "dependencies": {
+    "fs-angular-lister": "~1.1"
+  },
+  "license": "MIT",
+  "ignore": [
+    "src",
+    ".gitignore"
+  ],
+  "private": false
+}
