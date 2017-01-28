@@ -21,6 +21,7 @@
                 $scope.options = angular.extend({   paging: false,
                                                     inline: true,
                                                     load: false,
+                                                    namespace: 'search',
                                                     data: function(query, cb) {
                                                         if($scope.options.change) {
                                                             $scope.options.change(query);

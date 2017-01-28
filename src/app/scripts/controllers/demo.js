@@ -5,7 +5,7 @@
   .controller('DemoCtrl', function ($scope) {
 
     $scope.options = {
-
+    	id: 'test',
     	filters: [
 	    	{
 	    		name: 'search',
