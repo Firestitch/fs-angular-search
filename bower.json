@@ -8,7 +8,7 @@
     "Firestitch Inc."
   ],
   "dependencies": {
-    "fs-angular-lister": "~1.1"
+    "fs-angular-lister": "^1.0.0"
   },
   "license": "MIT",
   "ignore": [
